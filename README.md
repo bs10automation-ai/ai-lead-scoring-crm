@@ -58,3 +58,16 @@ Gmail Notification
 ## Project Goal
 
 Build a no-code automation workflow that captures leads, qualifies them automatically and stores them in a CRM while notifying the sales team about high-priority opportunities.
+## Screenshots
+
+### Make Workflow
+
+![Make Workflow](screenshots/make-workflow.png)
+
+### Airtable CRM
+
+![Airtable CRM](screenshots/airtable-crm.png)
+
+### Gmail Notification
+
+![Gmail Notification](screenshots/gmail-notification.png)
